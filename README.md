@@ -1,6 +1,6 @@
 Pulsar Timing Analysis with TEMPO2 and MCMC
 
-This repository contains a Python script (TempoLike9.py) designed to perform pulsar timing analysis by interfacing with TEMPO2 and employing Markov Chain Monte Carlo (MCMC) methods for parameter estimation. It allows for the exploration of parameter space, including fitting for timing model parameters, JUMP parameters, and T2EFACs, while incorporating both .par file priors and optional custom theory priors.
+This repository contains a Python script designed to perform pulsar timing analysis by interfacing with TEMPO2 and employing Markov Chain Monte Carlo (MCMC) methods for parameter estimation. It allows for the exploration of parameter space, including fitting for timing model parameters, JUMP parameters, and T2EFACs, while incorporating both .par file priors and optional custom theory priors.
 Features
 
     Parameter Prior Extraction: Automatically extracts priors for fitting parameters (e.g., RA, Dec, JUMPs, T2EFACs) directly from a TEMPO2 .par file.
